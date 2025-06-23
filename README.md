@@ -1,7 +1,7 @@
 # AIOlympiadClub-final-project
 AI Olympiad Club final project - tasks prepared by Michał Karp and Bartosz Trojan as part of the study for the AI ​​Olympiad finals
 
-The folders contain the files and instructions needed to run the notebooks.
+The folders contain the files and instructions needed to run the notebooks. The folders also contain solutions prepared by the authors.
 
 The author of “Brother, train your segmentation” and “They have returned” is Michał Karp, and the author of “...” and “...” is Bartosz Trojan.
 
