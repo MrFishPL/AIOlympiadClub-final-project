@@ -10,3 +10,18 @@ The tasks were prepared by **Bartosz Trojan** and **Michał Karp** as part of th
 The folders contain the files and instructions needed to run the notebooks. The folders also contain solutions prepared by the authors.
 
 The author of **“Brother, train your segmentation”** and **“They have returned”** is *Michał Karp*, and the author of **“Poor Representations”** and **“Pizza Time”** is *Bartosz Trojan*.
+
+## How to setup venv?
+
+**On Colab (recommended)**:
+Simply drag and drop the notebook and related files. If any libraries are needed that are not available on Colab, there are cells in the notebook for installing them.
+
+**On Linux/MacOS**:
+`python3 -m venv venv`
+`source venv/bin/acitvate`
+`pip install -r requirements.txt`
+*open notebook in visual studio code*
+*run notebook, you may be asked to install the ipykernel library*
+
+**On Windows**:
+You have to cope on your own.
