@@ -1,0 +1,21 @@
+# Core dependencies
+torch
+torchvision
+pillow
+matplotlib
+transformers
+requests
+gdown
+pandas
+numpy
+scikit-learn
+tqdm
+xgboost
+
+# Dataset and model utilities
+datasets
+kagglehub
+
+# FAIR and Sonar (custom indexes)
+fairseq2 @ https://fair.pkg.atmeta.com/fairseq2/whl/pt2.6.0/cu124
+sonar-space
