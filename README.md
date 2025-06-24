@@ -16,12 +16,12 @@ The author of **“Brother, train your segmentation”** and **“They have retu
 **On Colab (recommended)**:
 Simply drag and drop the notebook and related files. If any libraries are needed that are not available on Colab, there are cells in the notebook for installing them.
 
-**On Linux/MacOS**:
-`python3 -m venv venv`
-`source venv/bin/acitvate`
+**On Linux/MacOS**:<br>
+`python3 -m venv venv`<br>
+`source venv/bin/acitvate`<br>
 `pip install -r requirements.txt`
-*open notebook in visual studio code*
-*run notebook, you may be asked to install the ipykernel library*
+*open notebook in visual studio code*<br>
+*run notebook, you may be asked to install the ipykernel library*<br>
 
 **On Windows**:
 You have to cope on your own.
